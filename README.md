@@ -1,2 +1,2 @@
-# ExploringGeneticVariation
-Comparison of genetic variation between populations using data from the 1000 Genomes Project
+# Exploring Genetic Variation
+Comparison of genetic variation between populations in the 1000 Genomes Project using machine learning techniques such as PCA and clustering
